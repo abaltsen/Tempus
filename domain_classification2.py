@@ -15,7 +15,7 @@ from anytree.dotexport import RenderTreeGraph
 
 
 superfam_db = {'user':'MU_staging',
-     'password':'HjUVhg7B4kC0t2GjuScydf0fMC04Ah',
+     'password':'*',
      'host':'staging-superfam.cluster-ro-curlgfcoklkj.us-west-2.rds.amazonaws.com',
      'database':'superfam'
      }   #superfam connection
